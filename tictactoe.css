@@ -1,0 +1,55 @@
+body {
+   
+background: linear-gradient( #978282 5%,#403f92 100%);;
+    
+    /*opacity: 0.50;
+    filter: alpha(opacity=50);*/
+    
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.15);
+    box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.15);
+    
+    padding: 30px;
+    box-sizing: border-box;
+  background-attachment: fixed;
+background-size: cover;
+
+}
+title{
+  font-family: 'Bruno Ace SC', cursive;
+}
+h2{
+ color:black;
+    font-family: 'Bruno Ace SC', cursive;
+    font-style:"text-align: justify;"
+  
+}
+  h3{
+    color:white;
+  font-style:"text-align: justify;"
+  }
+.jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+  background-color: #240500;
+  color: white;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid rgb(0, 0, 0);
+  font-size: 100px;
+  background-color: rgb(0, 0, 0);
+  color: ivory;
+}
+
+table {
+  margin: auto auto;
+}
